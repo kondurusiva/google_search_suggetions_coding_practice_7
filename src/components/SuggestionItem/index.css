@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 16px;
+}
+
+.arrow {
+  background-color: #ffffff;
+  border-width: 0px;
+  width: 5px;
+  height: 5px;
+}
